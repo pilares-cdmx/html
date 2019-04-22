@@ -14,6 +14,9 @@
     </div>
 </div>
 </br>
+
+
+
 <div class="container">
 
 <!--Sheet Slider-->
@@ -152,7 +155,7 @@
             
             <div id="accordion">
     
-    <div id="collapseTree" class="collapse" aria-labelledby="headingTree" data-parent="#accordion">
+    <div id="collapseOcho" class="collapse" aria-labelledby="headingOcho" data-parent="#accordion">
    
 <p>A la par que las ciberescuelas también hay cursos de computación, programación, creación de aplicaciones móviles, y hasta cursos de reparación de teléfonos móviles.</p>
 <p>En cada PILARES hay una red gratuita de internet para que dentro y fuera de las instalaciones cualquier persona se pueda conectar.</p>
@@ -171,8 +174,8 @@
 <p>Queremos que todas y todos encuentren en los PILARES un espacio cultural, recreativo, donde puedan acercarse y encontrar algo que hacer y que aprender, queremos rescatar la vida comunitaria sana en la que la participación de los y las habitantes de la ciudad haga crecer a los PILARES.</p>
   </div>
     </div>
-   <div  id="headingTree">
-                    <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseTree" aria-expanded="false" aria-controls="collapseTree">
+   <div  id="headingOcho">
+                    <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseOcho" aria-expanded="false" aria-controls="collapseOcho">
                       Leer Más
                     </button>
        </div>                        
@@ -531,7 +534,7 @@
                                                 <!-- Post Content -->
                                                 <div class="post-content">
                                                     <a href="#" class="headline">
-                                                        <h5>Artes Plásticas</h5>
+                                                        <h5>Artes plásticas</h5>
                                                     </a>
                                                    
                                                 </div>
@@ -1447,7 +1450,7 @@ formación para el empleo, el autoempleo, el emprendimiento, el cooperativismo y
                           
             <div class=" d-flex align-items-center  ">
                   <div class="sidebar-widget-area">
-                            <h5 class="title">PILARES Operando</h5>
+                            <h5 class="title">PILARES operando</h5>
                             
                              <div class="scrollbar  " id="style-16">
 
@@ -1987,13 +1990,27 @@ formación para el empleo, el autoempleo, el emprendimiento, el cooperativismo y
     </blockquote>
   </div>
   <div class="card p-3">
-    <img src="<?php echo constant('URL')?>public/img/card-historia/1.png" class="card-img-top" alt="...">
+    <img src="<?php echo constant('URL')?>public/img/card-historia/nuevo1.jpg" class="card-img-top" alt="...">
     <div class="card-body">
       <h5 class="card-title"><!--Aviso 328--></h5>
-      <p class="card-text">Vengo a PILARES porque no sé coordinar bien mi cuerpo para bailar, todavía me falla, pero el simple hecho de venir me pone de buenas.</p>
-        <p class="card-text">Esperanza.</p>
+      <p class="card-text" align="justify" >Said Salvador, tiene 20 años, asiste por las mañanas al PILARES García Lorca. Las personas que se sientan junto a él se sienten como sus amigos, gracias a su presencia cálida y amigable. Said  sólo cuenta con estudios de primaria, pues en ocasiones las escuelas no han podido atender las necesidades especiales que requiere, sin embargo, él está decidido a terminar la secundaria en el PILARES.  
+<div id="accordion">
+    
+    <div id="collapsecuatro" class="collapse" aria-labelledby="headingcuatro" data-parent="#accordion">
+    
+        <p class="card-text" align="justify">Este joven entusiasta, por las mañanas asiste a taller de iniciación a la música, práctica en computadora con un  programa que le permite tocar un teclado y batería virtual, recientemente entró a taekwondo y no ha dejado estudiar para terminar su secundaría. Este PILARES, donde siempre es bienvenido, poco a poco se vuelve su segunda casa. 
+</p></p>
+    </div>
+    </div>
+                                
+         <div  id="headingcuatro">
+                    <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapsecuatro" aria-expanded="false" aria-controls="collapsecuatro">
+                      Leer Más
+                    </button>
+       </div> 
+              
         
-      <p class="card-text"><small class="text-muted"><!--Aviso 327--></small></p>
+      <p class="card-text" ><small class="text-muted"><!--Aviso 327--></small></p>
     </div>
   </div>
   <div class="card bg-primary text-white text-center p-3">
